@@ -1,2 +1,2 @@
 # contact_angle
-routine to emasure the contact angle using tangent angle method andspline interpolation
+The routine allow to measure the contact angle using tangent angle method and spline interpolation
